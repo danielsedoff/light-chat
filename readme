@@ -1,0 +1,12 @@
+light-chat
+
+This lightweight anonymous php chat can be set up quicker than anything else.
+
+The default password is 12345.
+
+Just put it in a directory on the server, and point your browsers to that directory.
+
+This chat has an option of Clearing all the text.
+If necessary, this function can be removed by editing the write.php file:
+
+CLEAR_DISABLED = true
